@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **designer**
 
-- 🌱 I’m currently learning **HTML,CSS,JS**
+- 🌱 I’m currently learning **FULL STACK DEVEOLPMENT**
 
 - 👯 I’m looking to collaborate on **deveolpd e-commerce website own private project**
 
